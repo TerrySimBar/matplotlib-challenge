@@ -69,13 +69,13 @@ A summary table was created to include all ten drug regimens with Mean, Median, 
 
 ---
 ##### 8. Bar Graphs
-Bar graphs were generated using both pandas and pyplot to show the number of observed mouse timepoints for each drug.
+Two identical bar graphs were generated using both pandas and pyplot to show the number of observed mouse timepoints for each drug.
 ###### Output
 <img src = "/images/mouse_timepoints_bargraph_screenshot.png" alt="/images/mouse_timepoints_bargraph_screenshot" width="600"/>
 
 ---
 ##### 9. Pie Charts 
-Pie charts were generated using both pandas and pyplot to show the distribution of the sexes of the mice in the study.
+Two identical pie charts were generated using both pandas and pyplot to show the distribution of the sexes of the mice in the study.
 ###### Output
 <img src = "/images/mouse_sex_piechart_screenshot.png" alt="mouse_sex_piechart_screenshot" width="600"/>
 
