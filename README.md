@@ -83,7 +83,7 @@ Two identical pie charts were generated using both pandas and pyplot to show the
 <img src = "/images/mouse_sex_piechart_screenshot.png" alt="mouse_sex_piechart_screenshot" width="300"/>
 
 ###### Pyplot Output
-<img src = "/images/mouse_sex_pie_screenshot.png" alt="mouse_sex_piechart_screenshot" width="300"/>
+<img src = "/images/pyplot_pie_screenshot.png" alt="pyplot_pie_screenshot" width="300"/>
 
 ---
 ##### 10. Final Tumor Volume 
